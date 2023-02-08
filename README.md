@@ -6,17 +6,17 @@
 
 ● Display the data file 
 
-![Screenshot](screenshot1.PNG)
+![Screenshot](All_observations.PNG)
 
 ● Visualize the distrubution of each attribute of the data
 
-![Screenshot](screenshot1.PNG)
+![Screenshot](Variable_distrubution.PNG)
 
 ● Check missing lines (non contiguous time-series)
 
-![Screenshot](screenshot1.PNG)
+![Screenshot](Warning.PNG)
 
 ● Check  0s in the columns (which could be a warning rather than an error)
 
-![Screenshot](screenshot1.PNG)
+![Screenshot](missing_lines.PNG)
 
