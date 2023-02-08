@@ -8,13 +8,13 @@
 
 ![Screenshot](All_observations.PNG)
 
-● Visualize the distrubution of each attribute of the data
-
-![Screenshot](Variable_distrubution.PNG)
-
 ● Check missing lines (non contiguous time-series)
 
 ![Screenshot](Warning.PNG)
+
+● Visualize the distrubution of each attribute of the data
+
+![Screenshot](Variable_distrubution.PNG)
 
 ● Check  0s in the columns (which could be a warning rather than an error)
 
